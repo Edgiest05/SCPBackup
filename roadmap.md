@@ -5,4 +5,5 @@ This document covers the planned changes for the script
 - [ ] Autoinstall script
 - [ ] Widen setup options
 - [ ] Option and argument matching
-- [ ] Add help description and man entry ?
+- [ ] Optional wiping
+- [ ] Add help description and man entry

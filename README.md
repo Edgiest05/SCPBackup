@@ -19,3 +19,5 @@ In addition, it will search for environment variables:
 The script won't ask for any kind of input, hence can be used as script for crontab or similar
 
 At the moment everything in the source folder will be tranferred, subfolders included
+
+**THE SOFTWARE WILL WIPE THE ENTIRE SPECIFIED FOLDER CONTENTS IF IT SUCCEEDS**
