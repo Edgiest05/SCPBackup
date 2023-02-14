@@ -2,7 +2,7 @@
 This document covers the planned changes for the script
 
 ## Version 0.2 plans
-- [ ] Autoinstall script
+- [x] Autoinstall script
 - [ ] Widen setup options
 - [ ] Option and argument matching
 - [ ] Optional wiping
