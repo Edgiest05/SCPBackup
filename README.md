@@ -7,9 +7,9 @@ This repo exist just so I can backup my pictures easily with Termux, don't expec
 # Autoinstall (Termux only)
 To automatically set up the script to run with [crontab](https://man7.org/linux/man-pages/man1/crontab.1.html)
 
-    curl https://raw.githubusercontent.com/Edgiest05/SCPBackup/autoinstall/install.sh | bash
+    curl -s https://raw.githubusercontent.com/Edgiest05/SCPBackup/autoinstall/install.sh > ./install.sh
 
-Follow the setup steps and enjoy
+Run the file, follow the setup steps and enjoy
 
 # Usage
 The script ensures by himself that it has everything it needs, else it won't run

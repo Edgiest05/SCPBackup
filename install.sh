@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p "Do you want to install SCPBackup [Y/n]? " yn
+read -p "Do you want to install SCPBackup (version 0.2) [Y/n]? " yn
 if [[ "$yn" == "n" ]]; then
     exit
 fi
